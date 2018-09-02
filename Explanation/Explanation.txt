@@ -1,0 +1,31 @@
+The approach for these problems can be proceed as follows:
+
+we will divide our approach to four parts and each problem can be solved by these four approach
+
+we will draw a weighted directed graph for the problem.
+
+case 1:
+
+-Suppose we have four objects say object 1,2,3 and 4.
+-Object 1 and object 3 is directing towards 2 and 4 respectively.
+-if there is an identity relation between object 1 and 3 and an 
+other relation between 1 and 2 then there 
+should also be an identity relation between 2 and 4.
+
+case 2:
+
+-Same approach can be applied if there is an identity relation 
+between 1 and 2 and other relation between 1 and three.
+
+case 3:
+
+-If we have suppose three objects say 1 , 2 and 3.
+-if one and three are directing towards 2 and one and 3 have a other relation 
+then one and three must have identity relation.
+
+case 4:
+
+same can be applied to three objects if one and three are directing towards 2 and one and two have a other relation 
+then one and three must have identity relation.
+
+
